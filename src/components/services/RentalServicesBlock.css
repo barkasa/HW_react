@@ -1,0 +1,32 @@
+.rental_block {
+  max-width: 100%;
+  max-height: 800px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+.rental_image {
+  max-width: 637px;
+  max-height: 800px;
+}
+
+.rental_text_block {
+  font-family: "ABeeZee", italic;
+  font-weight: 400;
+  color: #22356f;
+  font-size: 36px;
+}
+
+.rentalTitle_p {
+  margin-top: 242px;
+  line-height: 28px;
+  letter-spacing: -0.006em;
+}
+.rental_p {
+  margin: 49px 57px 243px 0;
+  max-width: 676px;
+  min-height: 215px;
+  line-height: 53px;
+  letter-spacing: -0.01em;
+}
